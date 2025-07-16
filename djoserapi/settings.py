@@ -66,14 +66,6 @@ DATABASES = {
     }
 }
 
-# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-
-# EMAIL_HOST = 'smtp.gmail.com'
-# EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'djproject963@gmail.com'
-# EMAIL_HOST_PASSWORD = 'vuxeeucbqzqppyrl'
-# EMAIL_USE_TLS = True
-# DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 # Mailtrap...
 # Looking to send emails in production? Check out our Email API/SMTP product!
